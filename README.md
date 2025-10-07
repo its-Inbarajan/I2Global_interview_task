@@ -1,4 +1,5 @@
-**i2global Weather & News App**
+<h1>i2global Weather & News App</h1>
+
 This is a Next.js project that provides weather information and personalized news based on your location and preferences. Users can select their preferred temperature unit (Celsius/Fahrenheit) and news categories.
 
 **Features**
@@ -28,15 +29,10 @@ yarn install`
 NEXT_PUBLIC_NEWS_API_KEY=your_news_api_key`
 
 4. Run the development server
-   `npm run dev
-
-# or
-
-yarn dev`
-
+   npm run dev
 Open http://localhost:3000 in your browser to view the app.
 
-Project Structure
+# Project Structure
 📁ui – UI components (Navbar, WeatherCard, NewsCard, etc.)
 📁context – React contexts for location, weather, news, and user preferences
 📁app – Next.js app routes and pages
