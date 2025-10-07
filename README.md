@@ -3,10 +3,10 @@
 This is a Next.js project that provides weather information and personalized news based on your location and preferences. Users can select their preferred temperature unit (Celsius/Fahrenheit) and news categories.
 
 **Features**
-🌦️ Real-time weather data based on your location
-📰 News feed filtered by weather and user-selected categories
-⚙️ Settings drawer for unit and category preferences
-Responsive UI with modern design
+<li>🌦️ Real-time weather data based on your location </li>
+<li>📰 News feed filtered by weather and user-selected categories </li>
+<li>⚙️ Settings drawer for unit and category preferences </li>
+<li>Responsive UI with modern design </li>
 
 Getting Started
 
@@ -29,7 +29,7 @@ Open http://localhost:3000 in your browser to view the app.
 
 # Project Structure
 📁ui – UI components (Navbar, WeatherCard, NewsCard, etc.) <br/>
-📁context – React contexts for location, weather, news, and user preferences
+📁context – React contexts for location, weather, news, and user preferences <br/>
 📁app – Next.js app routes and pages
 
 Customization
