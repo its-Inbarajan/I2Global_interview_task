@@ -1,7 +1,7 @@
 "use client";
 import { Fallback } from "@/components/ui/fallback";
 import { RightPanel } from "@/components/ui/right-panel";
-import { useWeatherAndNews } from "@/context/location-context";
+// import { useWeatherAndNews } from "@/context/location-context";
 import React, { Suspense } from "react";
 
 const ActivitiesCard = React.lazy(
@@ -10,11 +10,11 @@ const ActivitiesCard = React.lazy(
 const WeatherCard = React.lazy(() => import("@/components/ui/weather-card"));
 
 export default function Home() {
-  const { loading } = useWeatherAndNews();
+  // const { loading } = useWeatherAndNews();
 
-  if (loading) {
-    return <Fallback />;
-  }
+  // if (loading) {
+  //   return <Fallback />;
+  // }
 
   return (
     <>
