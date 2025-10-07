@@ -8,7 +8,8 @@ This is a Next.js project that provides weather information and personalized new
 <li>⚙️ Settings drawer for unit and category preferences </li>
 <li>Responsive UI with modern design </li>
 
-Getting Started
+
+# Getting Started
 
 1. Clone the repository
    `git clone https://github.com/Inbarajan/I2Global_interview_task.git
