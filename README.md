@@ -11,7 +11,7 @@ Responsive UI with modern design
 Getting Started
 
 1. Clone the repository
-   `git clone https://github.com/your-username/i2global.git
+   `git clone https://github.com/Inbarajan/I2Global_interview_task.git
 cd i2global`
 
 2. Install dependencies
