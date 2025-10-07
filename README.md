@@ -15,12 +15,7 @@ Getting Started
 cd i2global`
 
 2. Install dependencies
-
-`npm install
-
-# or
-
-yarn install`
+ `npm install`
 
 3. Configure environment variables
    Create a `.env` file in the root directory and add any required API keys (e.g., for weather or news APIs):
@@ -33,7 +28,7 @@ NEXT_PUBLIC_NEWS_API_KEY=your_news_api_key`
 Open http://localhost:3000 in your browser to view the app.
 
 # Project Structure
-📁ui – UI components (Navbar, WeatherCard, NewsCard, etc.)
+📁ui – UI components (Navbar, WeatherCard, NewsCard, etc.) <br/>
 📁context – React contexts for location, weather, news, and user preferences
 📁app – Next.js app routes and pages
 
